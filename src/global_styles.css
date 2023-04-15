@@ -1,0 +1,8 @@
+/* Add application styles & imports to this file! */
+body {
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/tiendapablo-e7259.appspot.com/o/fondo.jpg?alt=media&token=1afc3f47-ddc8-49be-9b23-117ede347c8d");
+  background-color: #cccccc;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
