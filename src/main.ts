@@ -18,7 +18,7 @@ import { bootstrapApplication } from '@angular/platform-browser';
 })
 export class App {
   name = 'Pablo';
-  curso = 'Desarrollo web con: ';
+  curso = 'Desarrollo web ';
   lenguaje = 'Angular ';
 }
 
